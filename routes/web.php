@@ -35,6 +35,9 @@ Route::get('/riwayat', function () {
     return view('Pages.Riwayat');
 });
 
+//test Add Data in Firebase
+Route::get('/firebase','FirebaseController@index');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "saranalaporbandung",
+  "private_key_id": "0050de0a076ef50c3ff336abd8f923154b9cceb3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1qz9+fRea7EUx\nDuJGVuZWkggqAueeqx9Zf5dbsSmZ05F2SnvSr4Kn8ZhsqKfcNL1vMcqEPHbD2AQd\nfGBxVRWlR+/FbSjC1B5HjnxIGDvqFJn70ksGOtxYplIjVeOZrH0aZkBJVjWa9hE8\nL5NEazuqRgrafh5fpIV7BzGzF+JV7v9C56NJvNtcgv8qvKPPk7WujqUxd3xLFHO7\n/b/D53e6eqM8ZAZ6VCyX2+tRSmBcqh16gu4Wy/wx6J3wsAx8cKvIS0glJO2YB0Dm\nBsmA5HHW2Ncs5D2Ysb0BX9K83bVLvoX2EtMmozFMxZEZuGK4I7qI5HBK7J7W0m8E\nAmMuKrw7AgMBAAECggEAOxr13kFLZhcVOI3bq8+pgEeHFlB3mGmUU8yKRmGz4BIS\nS7L04oYeebh7Ex1qsWSw9Ok2T6Vab5jvuIZdj7bIS+koS0gNh/5PwKiLxy6pb5KA\nT6FTMo8Dx4JQfbbi2OyydqEGM369y+gK0n+hv1LLWpaacuHn/dvPz382GmATMNgk\nPrSg47uwebA51RJ+IeT+9PV/L+hm6Aym1eUlZrAuWUETgrhxHJt66/UMTZvtYTZB\nbKvO/B9TlGYl9vGCe7DBidAGO+WugbCI9C/Rg2jI0q3y4kTMXskBoKaB6UqCStRq\nDe/pAdwEMQMYMwJcy3ajIFDvRp4sbOiREJ/U7u7mbQKBgQD7D4OKJDLcSAKA6MjR\nZGoI/brnecuOQn+F0PzhFKF9Xw5+tK4ojFbQYU8FX5AmiNbH4Ier2fslVaOO+Tnp\n99EWA1jKY0ZpVp1bU14cQGuq2dj4uVhu9ynBEo1/LlTYjtjEcaVcmZ/xBTR8wKsy\nKqlEWY6d2dHMOBn+BkttvzsafQKBgQD6gJQjiCFknx762OioC28FSGX73K4RXy7p\nq+kvWPIR8NvwYjTJL/y8Ei6xcVzJzi5sgOKT3WRlcNESOoQp82vtPUEjJ2sObviT\nZjVoEzFsu7wZYl2UygR5eYPKzgjdbjb+iMmaVquwnZBURm+fhy4P4hFFv59fRUCl\nHx0ZF1y3FwKBgQDc8FgoF5cSt+RMIY+ohh+ybegvkMWMGgUzdCk2wvsi46ZT5xlk\n4av8kcYCyoiHAOFS4MtEdv5HasgXKEjJF6dPIf7fjOIIDYtJNWKapi6aGkCREjs6\n3BRIrtUK2XEdawhkSEbn6OISLyxzpPKDoXt4hP+29ltkxvJI1K1IlYOj2QKBgQDp\nAPZKApKFBJkNXPsza8ctk8UAu6jRkcaSJYx1tPcdBvudIcvVoyQjT4pNFJPpRjXa\nSRv3y8NZs9FUckeCueAWwJY4+65Rs5jVigl9L/UWHZ19wwgmoK3+y69x0alfRegz\nY8qaG6oBUt3v9cBYE6Ydsfq89NtqA4F41XL8ZsWfqwKBgCuSTVKoFhztlvJNIK5e\nVEpd1hCye31u7yJ+oUB2MLGWeY7DYxfPeWZFJ3fiy9++Iq0rKsuQRKbsPzjOXK5D\nm76yr2EZ53GF5Xyx4HdewOgWWGlSFHO7TmKV+E4NHkKOUStleWyBAOzvukTbUEeb\nJLmrd+Wfg9KxJeFOGXATXGqK\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-zew5t@saranalaporbandung.iam.gserviceaccount.com",
+  "client_id": "108078597419818000610",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-zew5t%40saranalaporbandung.iam.gserviceaccount.com"
+}
