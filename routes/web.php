@@ -40,6 +40,9 @@ Route::get('/firebase-post','FirebaseController@postData');
 
 //test Get Data in Firebase
 Route::get('/firebase-get', 'FirebaseController@getData');
+
+Route::get('/users', 'DataUserController@index');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
