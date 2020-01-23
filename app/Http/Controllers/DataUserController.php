@@ -18,6 +18,7 @@ class DataUserController extends Controller
  
       $database   =   $firebase->getDatabase();
       $usersInfo  =   $database->getReference('users/laporan')->getvalue();
-		  return view('Pages.DataUser', $usersInfo);
+      //return response()->json($usersInfo);
+		  return view('Pages.DataUser', compact($usersInfo));
     }
 }

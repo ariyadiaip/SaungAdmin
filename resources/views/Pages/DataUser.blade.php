@@ -45,10 +45,10 @@
                           <td>2</td>
                           <td>100</td>
                         </tr>
-                        <!-- @foreach($errors as $row)
+                        <!-- @foreach($usersInfo as $row)
                         <tr>
                           <td>{{ isset($i) ? ++$i : $i = 1 }}</td>
-                          <td>{{ $row->namaUserPost }}</td>
+                          <td>{{ $row[namaUserPost] }}</td>
                           <td>{{ $row->email }}</td>
                           <td>{{ $row->totalPost }}</td>
                           <td>{{ $row->point }}</td>
